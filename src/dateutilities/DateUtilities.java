@@ -1,4 +1,4 @@
-/*
+*/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -24,24 +24,24 @@ import java.time.*;
 * <li>day should be one of the following:</li>
 *	</p>
 *<p>
- *  <ul style = "list-style-type:square">
-  *         <li>DayOfWeek.MONDAY</li>
-   *        <li>DayOfWeek.TUESDAY</li>
-    *       <li>DayOfWeek.WEDNESDAY</li>
-     *      <li>DayOfWeek.THURSDAY</li>
-      *     <li>DayOfWeek.FRIDAY</li>
-       *    <li>DayOfWeek.SATURDAY</li>
-        *   <li>DayOfWeek.SUNDAY</li>
-   *</ul>
+*  <ul style = "list-style-type:square">
+*         <li>DayOfWeek.MONDAY</li>
+*        <li>DayOfWeek.TUESDAY</li>
+*       <li>DayOfWeek.WEDNESDAY</li>
+*      <li>DayOfWeek.THURSDAY</li>
+*     <li>DayOfWeek.FRIDAY</li>
+*    <li>DayOfWeek.SATURDAY</li>
+*   <li>DayOfWeek.SUNDAY</li>
+*</ul>
 *</p>
 *  <p>
- *      <li>startIndex is the index at which you want the first letter
-  *         of the abbreviation is located.</li>
+*      <li>startIndex is the index at which you want the first letter
+*         of the abbreviation is located.</li>
 *</p>
 *<p>
- *      <li>endIndex is the index at which the last letter of the 
-  *         abbreviation is located</li>
-*  </p>
+*      <li>endIndex is the index at which the last letter of the 
+*         abbreviation is located</li>
+ * </p>
  * </ol>
  * 
  *
